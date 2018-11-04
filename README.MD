@@ -27,6 +27,7 @@ Vous trouverez ici :
 -	Un système de donations
 -	Un système de shop (la aussi basique achats/ventes etc…)
 -	Et pour finir le mcp (loin d’être fini du projet en version 1.12)
+- - au niveau du mcp j'ai essayé de développer une sorte d'api qui permet de simplifier l'ajouts d'items etc... une sorte de forge mais en moins bien mdr
 
 Il faut savoir que j’ai été le principal (seul) développeurs de tous ses plugins, même si pour certains je me suis basé de source de mon ancien projet VulkanMc que je développais avec [rovergames](https://gitlab.com/rovergames). C’est pourquoi, dans certains fichiers il y est mentionné le pseudo de [rovergames](https://gitlab.com/rovergames). 
 De plus pour le shop, j’ai mentionné le nom de Liskoh car on lui avait acheté un plugin de shop, mais finalement j’avais décidé de tout refaire, néanmoins avec son accord j’ai réutilisé certaines de ses class.
