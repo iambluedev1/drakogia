@@ -1,0 +1,5 @@
+main: fr.drakogia.rank.DrakogiaRank
+name: DrakogiaRank
+author: Drakogia
+depend: [DrakogiaCore]
+version: 0.0.1

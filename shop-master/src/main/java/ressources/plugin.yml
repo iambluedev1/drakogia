@@ -1,0 +1,5 @@
+main: fr.drakogia.shop.DrakogiaShop
+name: DrakogiaShop
+author: Drakogia, Liskoh
+depend: [DrakogiaCore, DrakogiaEconomy]
+version: 0.0.1

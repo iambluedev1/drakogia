@@ -1,0 +1,5 @@
+main: fr.drakogia.core.DrakogiaApi
+name: DrakogiaCore
+author: Drakogia
+version: 0.0.1
+load: STARTUP

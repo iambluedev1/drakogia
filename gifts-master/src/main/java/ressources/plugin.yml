@@ -1,0 +1,5 @@
+main: fr.drakogia.gifts.DrakogiaGifts
+name: DrakogiaGifts
+author: Drakogia, rovergames
+depend: [DrakogiaCore, DrakogiaEconomy]
+version: 0.0.1

@@ -1,0 +1,97 @@
+package fr.drakogia.api.heads;
+
+import lombok.Getter;
+import lombok.Setter;
+
+public enum CustomHeads {
+
+	APPLE("MHF_Apple"),
+    CAKE("MHF_Cake"),
+    MELON("MHF_Melon"),
+    PUMPKIN("MHF_Pumpkin"),
+    OAK_LOG("MHF_OakLog"),
+    CACTUS("MHF_Cactus"),
+    TNT("MHF_TNT"),
+    TNT2("MHF_TNT2"),
+    CHEST("MHF_Chest"),
+    PIGMAN("MHF_PigZombie"),
+    SPIDER("MHF_Spider"),
+    MAGMA("MHF_LavaSlime"),
+    SQUID("MHF_Squid"),
+    GHAST("MHF_Ghast"),
+    MUSHROOM("MHF_MushroomCow"),
+    COW("MHF_Cow"),
+    CHICKEN("MHF_Chicken"),
+    PIG("MHF_Pig"),
+    WITHER("MHF_Wither"),
+    BLAZE("MHF_Blaze"),
+    GOLEM("MHF_Golem"),
+    ENDERMAN("MHF_Enderman"),
+    KINGENDERMAN("KingEndermen"),
+    VILLAGER("MHF_Villager"),
+    SHEEP("MHF_Sheep"),
+    CAVESPIDER("MHF_CaveSpider"),
+    QUESTION("MHF_Question"),
+    EXCLAMATION("MHF_Exclamation"),
+    ARROW_DOWN("MHF_ArrowDown"),
+    ARROW_UP("MHF_ArrowUP"),
+    ARROW_LEFT("MHF_ArrowLeft"),
+    ARROW_RIGHT("MHF_ArrowRight"),
+    STONE("mescovic"),
+    COBBLE("Cobble"),
+    STONE_BRICK("Cakers"),
+    EMERALD_ORE("Tereneckla"),
+    REDSTONE_ORE("annayirb"),
+    DIAMOND_ORE("acissejxd"),
+    DIAMOND("AllTheDiamond"),
+    IRON("metalhedd"),
+    GOLD("CameronGoldRush"),
+    OBSIDIAN("loiwiol"),
+    ICE("icytouch"),
+    DIRT("ChazOfftopic"),
+    TV("GameNilo"),
+    RADIO("uioz"),
+    COMPUTER("CoderPuppy"),
+    GLOBE("Kevos"),
+    BOOKSHELF("conorf1807"),
+    CLOCK("Olaf_C"),
+    GIFT_GREEN("SeerPotion"),
+    GIFT_RED("CruXXx"),
+    LEAVES("AlphaPieter1"),
+    CHORUS_PLANT("​Dic"),
+    FIREBALL("haohanklliu"),
+    COMMAND_BLOCK("​ExtrayeaMC"),
+    BEDROCK("scraftbrothers5"),
+    MISSING_TEXTURE("ddrl46"),
+    GRAY_WOOL("graywool"),
+    RED_WOOL("wool"),
+    WOOL("ema"),
+    SAND("Second"),
+    SUGAR_CANE("Sugar_Cane_"),
+    SOUL_SAND("Njham"),
+    NETHERRACK("Numba_one_stunna"),
+    DISPENSER("scemm"),
+    HAY_BALE("Bendablob"),
+    PISTON("JL2579"),
+    STICKY_PISTON("JJ95"),
+    REDSTONE_LAMP("Jellyfish"),
+    EMERALD_BLOCK("Emeraldblock"),
+    REDSTONE_BLOCK("Maccys_Test_Acc"),
+    COBBLESTONE("Cobble"),
+    JACK_O_LANTERN("bmanrules"),
+    SPRUCE_LEAVES("half_bit"),
+    BRICH_LEAVES("kc33"),
+    WOOD_PLANKS("jihad_911"),
+    WOOD_LOG("MightyMega"),
+    MYCELIUM("GracefulNarwhal"),
+    GRASS_BLOCK("107295");
+	
+	@Getter
+	@Setter
+	private String name;
+	
+	private CustomHeads(String name){
+		this.name = name;
+	}
+	
+}

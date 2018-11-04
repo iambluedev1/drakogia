@@ -1,0 +1,5 @@
+main: fr.drakogia.economy.DrakogiaEconomy
+name: DrakogiaEconomy
+author: Drakogia
+depend: [DrakogiaCore]
+version: 0.0.1

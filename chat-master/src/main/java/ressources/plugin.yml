@@ -1,0 +1,5 @@
+main: fr.drakogia.chat.DrakogiaChat
+name: DrakogiaChat
+author: Drakogia
+depend: [DrakogiaCore, DrakogiaRank]
+version: 0.0.1
